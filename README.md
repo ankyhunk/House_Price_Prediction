@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [How to Run](#how-to-run)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -28,6 +29,17 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
+## How to run
+1. Install the libraries:
+   ```bash
+   pip install numpy pandas matplotlib seaborn scikit-learn
+   ```
+2. Get the data: [train.csv](https://ml-course3-upgrad.s3.amazonaws.com/Assignment_+Advanced+Regression/train.csv) (place it next to the notebook).
+3. Open and run the notebook:
+   ```bash
+   jupyter notebook "House_Price_Prediction.ipynb"
+   ```
+
 ## Technologies Used
 - Jupyter Notebook
 - Numpy
@@ -39,7 +51,6 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was based on [House Price Prediction Assignment](https://learn.upgrad.com/course/5797/segment/50365/297355/904028/4520499).
 
 
