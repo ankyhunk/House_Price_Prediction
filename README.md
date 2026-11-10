@@ -7,7 +7,6 @@
 * [How to Run](#how-to-run)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -49,10 +48,6 @@
 - Sklearn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-- This project was based on [House Price Prediction Assignment](https://learn.upgrad.com/course/5797/segment/50365/297355/904028/4520499).
-
 
 ## Contact
 Created by [@ankyhunk] - feel free to contact me!
